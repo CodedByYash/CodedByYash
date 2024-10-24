@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Gawade</h1>
 <h3 align="center">Building scalable apps with MERN | Learning AI & ML | Passionate about Data Science and MERN stack development</h3>
+<image align="center" alt="Coding" width="400" src="https://images.playground.com/e25be6c1adfd4f42a89104ad8d2db59f.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedbyyash&label=Profile%20views&color=0e75b6&style=flat" alt="codedbyyash" /> </p>
 
